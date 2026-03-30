@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm an undergraduate major in computer science.
+
+I'm currently learning game developing and trying to build my portfolio.
+
+Contact me if you are interested in my work.
+
 <!--
 **Helianthus404/Helianthus404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
