@@ -15,6 +15,6 @@
 > **Inscryption GBC Mod**: [GBC](https://github.com/chytridi05/GBC)
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img referrerpolicy="no-referrer" alt="GBC_1" witdh=480 height=300 src="https://github.com/chytridi05/GBC/blob/main/screenshot/Screenshot%202026-08-23%20003040.png">
-  <img referrerpolicy="no-referrer" alt="GBC_1" witdh=480 height=300 src="https://github.com/chytridi05/GBC/blob/main/screenshot/Screenshot%202026-08-23%20004119.png">
+  <img referrerpolicy="no-referrer" alt="GBC_1" witdh=320 height=200 src="https://github.com/chytridi05/GBC/blob/main/screenshot/Screenshot%202026-08-23%20003040.png">
+  <img referrerpolicy="no-referrer" alt="GBC_1" witdh=320 height=200 src="https://github.com/chytridi05/GBC/blob/main/screenshot/Screenshot%202026-08-23%20004119.png">
 </div>
