@@ -1,22 +1,20 @@
 ## Hi there 👋
 
-I'm an undergraduate major in computer science.
+- I'm an independent game developer and computer science undergraduate.
 
-I'm currently learning game developing and trying to build my portfolio.
+- I'm currently pursuing an undergraduate degree in Nanjing, China.
 
-Contact me if you are interested in my work.
+- I'm currently working on Inscryption mods and experimenting with Unity, C#, procedural game systems, and pixel-art tooling.
 
-<!--
-**Helianthus404/Helianthus404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Please contact me if you are interested in my work. 😙
 
-Here are some ideas to get you started:
+📬email: 3904269375@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects 🗃️
+
+> **Inscryption GBC Mod**: [GBC](https://github.com/chytridi05/GBC)
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img referrerpolicy="no-referrer" alt="GBC_1" witdh=480 height=300 src="https://github.com/chytridi05/GBC/blob/main/screenshot/Screenshot%202026-08-23%20003040.png">
+  <img referrerpolicy="no-referrer" alt="GBC_1" witdh=480 height=300 src="https://github.com/chytridi05/GBC/blob/main/screenshot/Screenshot%202026-08-23%20004119.png">
+</div>
